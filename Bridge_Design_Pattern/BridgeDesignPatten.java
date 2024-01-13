@@ -17,6 +17,5 @@ public class BridgeDesignPatten {
 
         Restaurant italianRestaurant = new ItalianRestaurant(new VeggiePizza());
         italianRestaurant.deliver();
-    }
-    
+    } 
 }
